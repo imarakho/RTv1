@@ -1,0 +1,23 @@
+ob ammount:
+1
+id:
+s
+pos:
+x:
+400
+y:
+300
+z:
+0
+rad:
+100
+mt:
+difs:
+red:
+1
+green:
+1
+blue:
+0
+refl:
+0.5
